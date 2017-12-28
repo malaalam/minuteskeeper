@@ -1,12 +1,12 @@
-#
+l#
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Manan Lalit
+name: Minutes Keeper
 
 # Short bio or description (displayed in the header)
-description: A Deep Learning and Genomics Enthusiast
+description: A hardware device that transcribes your conversations
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
