@@ -19,8 +19,7 @@ Think there is a definite potential from the point of view of a technical proble
 
 I thought I would name this project **Jeeves** in reference to the eponymous butler who makes all problems disappear!
 
-<p><figure><a href="http://tfwiki.net/wiki/Perceptor_(G1)"><img src="/images/2017-12-30/jeeves.jpg" alt=""/></a><figcaption>
-   [Jeeves (on the right) and Bertam Wooster ]</figcaption></figure></p>
+<p><figure><a href="http://www.fanpop.com/clubs/jeeves-and-wooster/images/2251468/title/jeeves-wooster-photo"><img src="/images/2017-12-30/jeeves.jpg" alt=""/></a><figcaption>[Jeeves (on the right) and Bertam Wooster ]</figcaption></figure></p>
 
 
 
