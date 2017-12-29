@@ -13,7 +13,7 @@ The fact that one doesn't hear of such devices already hints that there might be
 
 Upon some brainstorming with my mother (who usually has some keen insights about most things :O), I realised that another technical challenge would be **tackling multiple conversations at the same time**. I have heard that humans are quite good at [identifying](https://en.wikipedia.org/wiki/Cocktail_party_effect) one source of sound as distinct from the other - I wonder how good could a machine separate out two or more sources and how would these conversations be transcribed (since these occur simultaneously).
 
-One (more) question that I don't have an answer to at this point of time is why would a separate hardware be needed for catering to this solution - since nowadays phones have quite an impressive processor anyway and can do most of the tasks. Maybe I would find an answer as I dig deeper into this project.
+One (more) question which I don't have an answer to at this point of time is why would a separate hardware be needed for catering to this solution - since nowadays phones have quite an impressive processor anyway and can do most of the tasks.
 
 Think there is a definite potential from the point of view of a technical problem that must be solved. Many companies encourage sending out the minutes to all the concerned employees (just to put in writing all points which were agreed upon earlier), so if implemented well, this piece of hardware could have a large clientele. However, whether these companies would be willing to buy such a product (would such a device justify its cost by improving the productivity of a company) seems hard to answer! .
 
