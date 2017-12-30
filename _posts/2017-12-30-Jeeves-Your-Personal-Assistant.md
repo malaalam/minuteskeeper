@@ -19,7 +19,9 @@ Think there is an opportunity from the point of view of a solving a technical pr
 
 I thought I would name this project **Jeeves** in reference to the eponymous butler who makes all problems disappear!
 
-<p><figure><a href="https://en.wikipedia.org/wiki/Jeeves"><img src="/images/2017-12-30/jeeves2.jpg" alt=""/></a><figcaption>[Reginald Jeeves from the series of books written by PG Wodehouse]</figcaption></figure></p>
+
+![Reginald Jeeves from the series of books written by PG Wodehouse]](/images/2017-12-30/jeeves2.jpg)
+
 
 
 
