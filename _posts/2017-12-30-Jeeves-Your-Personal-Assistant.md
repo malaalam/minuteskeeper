@@ -3,7 +3,7 @@ layout: post
 title: Jeeves - Your Personal Assistant
 ---
 
-For a while now, I have been obsessing over Recurrent Neural Networks. I understand them in a superficial, top-level way but would like to dive in and learn more. On a few sporadic occasions, I have pondered if it may be possible to combine my knowledge of audio engineering with deep recurrent neural networks as part of a hands-on project somehow.
+For a while now, I have been obsessing over Deep, Recurrent Neural Networks. I understand them in a superficial, top-level way but would like to dive in and learn more. On a few sporadic occasions, I have pondered if it may be possible to combine my knowledge of audio engineering with deep, recurrent neural networks as part of a hands-on project somehow.
 
 Then a couple of days ago, I came across the [Kaggle](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge) challenge which centred around converting speech to text. While there are [softwares](https://en.wikipedia.org/wiki/Transcription_(software)) in the market which accomplish this, I did not see find many items of hardware **dedicated** to this scope of function. 
 
